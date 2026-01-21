@@ -13,8 +13,8 @@ from telegram import Bot
 
 
 # Telegram bot token and chat ID
-TELEGRAM_BOT_TOKEN = "6969578979:AAHVOmPy8sYdKB0bb3cz_q9aT1celA6ahOg"  # Replace with your bot token
-TELEGRAM_CHAT_ID = '-1002136069032'  # Replace with your chat ID
+TELEGRAM_BOT_TOKEN = None # Replace with your Bot Token  # Replace with your bot token
+TELEGRAM_CHAT_ID = None # Replace with your chat ID
 
 async def send_telegram_message(message):
     """Send a message to a Telegram chat."""

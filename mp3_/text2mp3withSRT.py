@@ -76,8 +76,8 @@ async def send_telegram_message(message):
     try:
         """Send a message to a Telegram chat."""
         # Telegram bot token and chat ID
-        TELEGRAM_BOT_TOKEN = "6969578979:AAHVOmPy8sYdKB0bb3cz_q9aT1celA6ahOg"
-        TELEGRAM_CHAT_ID = '-1002136069032'  # Replace with your chat ID
+        TELEGRAM_BOT_TOKEN = None # Replace with your Bot Token
+        TELEGRAM_CHAT_ID = None # Replace with your chat ID
         bot = Bot(token=TELEGRAM_BOT_TOKEN)
         await bot.send_message(chat_id=TELEGRAM_CHAT_ID, text=message)
     except:
