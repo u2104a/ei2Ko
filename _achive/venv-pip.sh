@@ -12,9 +12,3 @@ pip install pillow
 
 deactivate
 
-
-
-
-
-
-
