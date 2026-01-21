@@ -2,6 +2,10 @@
 
 ## all code were created between Jan 2020 to Nov 2025
 
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
 ---
 
 ### for Text files
